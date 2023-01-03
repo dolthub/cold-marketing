@@ -4,7 +4,7 @@ This is for [DoltHub's](https://www.dolthub.com/) cold email marketing outreach 
 ## Email best practices
 * Keep emails to 100 words or less
 * Subjects should be short and relevant to the recipient
-* Links hurt email deliverability
+* Links can hurt email deliverability. Use sparingly 
 * Customize your email to the ICP
 * CTA should be simple and non-binding
 * Reuse content but change subjects and CTAs

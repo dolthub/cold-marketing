@@ -9,14 +9,12 @@ Market: "Any company using Retool"
 
 Hi First Name,
 
-Retool is a powerful tool that allows low-code solution to create internal tools. I'm sure you are aware as a user :)
+As a Retool user, you know firsthand the power of low-code solutions for creating internal tools. But have you ever encountered the challenge of accidentally making changes to your production database? Maybe today you work off of a copy or a backup to avoid that problem. But how do you manage changes to your database?
 
-What if you added a version controlled database to your Retool applications? You no longer have to worry about accidentally making changes to your production database. Maybe today you work off of a copy or a backup. But how do you manage changes to your database?
+That's where Dolt comes in. Dolt is a new open-source database that combines the best of Git and MySQL to give you version control features like commits, branches, and pull requests, right inside your Retool app. This means you can easily manage and track changes to your database, without worrying about making mistakes.
 
-Dolt allows you to do just that. Commits, branches, and pull requests are built into Dolt. If you use Dolt as the database for your Retool app, then you will get those features in your app automatically. 
-
-Just respond to this email if you'd like me to send our blog on how to do this.
+Want to learn more? Just reply to this email and I'll send over our blog post on how to integrate Dolt with Retool. Or, if you have any questions about Dolt and how it can benefit your team, don't hesitate to reach out.
 
 Brian
 
-P.S. Dolt is a new open-source database that is like Git and MySQL had a baby. 
+

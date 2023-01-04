@@ -24,8 +24,19 @@ This is for [DoltHub's](https://www.dolthub.com/) cold email marketing outreach 
 
 ## Metrics
 * Emails sent 
+* Opens
 * Replies
 * Meetings
 * Opportunities generated
+
+## Adding an email
+
+The file name should be in format YYYY-MM-DD-[name-of-emaail].md and should include the metadata
+---
+subject: "email subject"
+date: "YYYY-MM-DD"
+ICP: "who the email should go to"
+Market: "Industry, company size and location, technology used, etc"
+---
 
 

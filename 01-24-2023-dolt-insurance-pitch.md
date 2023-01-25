@@ -13,11 +13,11 @@ Dolt Pitch: "Dolt your backups so you fix the Atlassian problem quickly. Minutes
 Email #1
 Hello,
 
-Everyone has horror stories about a database being broken with a bad query. A single mistake disrupt the functionality of your database and systems for months.  
+Everyone has horror stories about a database being broken with a bad query. A single mistake disrupts the functionality of your database and systems for maybe months.  
 
 Dolt solves this problem. 
 
-Contact us to learn more about how Dolt replication can safeguard your data.
+Contact us to learn more about how Dolt replication can safeguard your database.
 
 #siganture
 

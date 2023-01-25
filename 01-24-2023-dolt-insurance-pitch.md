@@ -1,5 +1,16 @@
-Subject: MySQL Database Insurance
-Eamil #1
+---
+subject: "MySQL Database Insurance"
+date: "2023-01-24"
+ICP: "devops and/orsre managers"
+Market: "Finance, company size?, MySQL, MariaDB, etc."
+Dolt Pitch: "Dolt your backups so you fix the Atlassian problem quickly. Minutes, not days/months"
+
+---
+
+
+
+
+Email #1
 Hello,
 
 Are you concerned about the potential damage that can be caused by an administrator's accidental deletion or alteration of data in your MySQL database? Dolt replication can provide peace of mind by creating a replica of your database that can be used for recovery in the event of a data loss or corruption.

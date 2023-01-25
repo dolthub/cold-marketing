@@ -13,7 +13,7 @@ Dolt Pitch: "Dolt your backups so you fix the Atlassian problem quickly. Minutes
 Email #1
 Hello,
 
-Everyone has horror stories about a database being broken with a bad query. A single mistake disrupts the functionality of your database and systems for maybe months.  
+Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even [months](https://www.dolthub.com/blog/2022-04-14-atlassian-outage-prevention/).  
 
 Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required.
 

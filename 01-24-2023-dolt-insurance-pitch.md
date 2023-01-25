@@ -15,7 +15,7 @@ Hello,
 
 Everyone has horror stories about a database being broken with a bad query. A single mistake disrupts the functionality of your database and systems for maybe months.  
 
-Dolt solves this problem. 
+Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required.
 
 Contact us to learn more about how Dolt replication can safeguard your database.
 

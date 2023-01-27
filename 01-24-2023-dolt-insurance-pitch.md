@@ -17,13 +17,14 @@ Hello,
 
 Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send you some links.
 
-Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required.
+Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
 
 Contact us to learn more about how Dolt replication can safeguard your database.
 
 #siganture
 
 Email #2
+Follow up to #1
 
 Hi,
 
@@ -35,26 +36,50 @@ Email #3
 
 Hi,
 
-Dolt replication is a form of insurance for your MySQL database. You know longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
+What if you could have oh sh*t insurance for your MySQL database? You'd know longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
 
-Please let me know if you would like to learn more. 
+Dolt replication of your MySQL database gives you that insurance. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production.
 
-Thank you for consideration.
+Let me know if you want learn more about Dolt.
 
 #signature
 
-Email #3
+Email #4
+Follow up to #3
+
+Hello,
+
+I'm sure you are busy. I'm bumping my first email. I thoought you should that solution exists that makes it easy to version control your exsiting MYSQL database to make your backups more powerful with an audit log of every cell, time travel, and branches for developemnt on a replica.
+
+Please let me know if you'd like to talk our CEO and founder about this. 
+
+#signature 
+
+Email #5
+
+*New Subject* A bad query on pord
 Hello,
 
 Are you running a MySQL type database and worried about what happens when an admin runs a destructive query?
 
 It can cause the deletion, modification, or alteration of data in the database. This can result in data loss, data corruption, or other problems that can disrupt the functionality of the database and the systems that depend on it.
 
-Add a Dolt replica and stop worrying. 
+Add a Dolt replica and stop worrying. Dolt replication of your MySQL database ends your worrying. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production.
 
 #signature
 
-Email #4
+Email #6
+Follow up to 5
+
+Hey,
+
+Just bumping my previous email, I thought it might be releveant you how you can worry less about a mistake on your production database with version controlled backups. 
+
+Shoot me note if you'd like to learn more.
+
+#siganture
+
+Email #7
 
 *New Subject* Your Database Backups are Broken
 
@@ -68,7 +93,7 @@ Reply to this email to learn more.
 
 #signature
 
-Email #5
+Email #8
 
 Hi,
 
@@ -78,13 +103,13 @@ Please let me know if you'd like to learn more.
 
 #signature
 
-Email #6
+Email #9
 
 *New Subject* Database Horror Stories
 
 Hi,
 
-Everyone has or atleast heard of database horror story. A bad query corrupts data, an operator error drops a table, or maybe script is update the wrong tables. 
+Everyone has or atleast heard of a database horror story. A bad query corrupts data, an operator error drops a table, or maybe script is update the wrong tables. 
 
 If you are lucky, its an easy fix. That is not always the case and sometimes it can take [months](https://www.dolthub.com/blog/2022-04-14-atlassian-outage-prevention/) and play out the public eye.
 
@@ -94,11 +119,15 @@ Want to learn more?
 
 #Signature
 
-Email #7
+Email #10
+
+Hello,
 
 I know you are busy but I wanted to make sure you saw my previous email about how backing your database with Dolt makes restoring from backup much easier.
 
-Dolt ispurely additive to your environement. You don't have to change anything except start creating an additional backup of your database in Dolt. Dolt is MySQL compatible. 
+Dolt is purely additive to your environement. You don't have to change anything except start creating an additional backup of your database in Dolt. Dolt is MySQL compatible. 
 
 Please let me know if you'd like to learn more.
+
+#signature
 

@@ -11,6 +11,8 @@ Dolt Pitch: "Dolt your backups so you fix the Atlassian problem quickly. Minutes
 
 
 Email #1
+*Subject* MySQL Database Insurance
+
 Hello,
 
 Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send you some links.
@@ -22,7 +24,16 @@ Contact us to learn more about how Dolt replication can safeguard your database.
 #siganture
 
 Email #2
-Hello,
+
+Hi,
+
+I'm sure you are busy making sure a someone doesn't crash your prod database. Let me know if you'd like to learn how a version controlled MySQL database can make you worry less about a bad query.
+
+#signature
+
+Email #3
+
+Hi,
 
 Dolt replication is a form of insurance for your MySQL database. You know longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
 
@@ -68,6 +79,7 @@ Please let me know if you'd like to learn more.
 #signature
 
 Email #6
+
 *New Subject* Database Horror Stories
 
 Hi,

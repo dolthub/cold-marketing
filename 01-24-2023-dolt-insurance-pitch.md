@@ -57,3 +57,36 @@ Reply to this email to learn more.
 
 #signature
 
+Email #5
+
+Hi,
+
+I know you are busy but I wanted to make sure you saw my previous email about how backing your database with Dolt can give you full version control of your database down to the cell level. This purely additive to your environement. You don't have to change anything except start creating an additional backup of your database in Dolt. Dolt is MySQL compatible. 
+
+Please let me know if you'd like to learn more.
+
+#signature
+
+Email #6
+*New Subject* Database Horror Stories
+
+Hi,
+
+Everyone has or atleast heard of database horror story. A bad query corrupts data, an operator error drops a table, or maybe script is update the wrong tables. 
+
+If you are lucky, its an easy fix. That is not always the case and sometimes it can take [months](https://www.dolthub.com/blog/2022-04-14-atlassian-outage-prevention/) and play out the public eye.
+
+Until now the best option was to restore from a backup, but Dolt changes that. Dolt verison controls your backups down to cell level to make disaster recovery  much easier.
+
+Want to learn more?
+
+#Signature
+
+Email #7
+
+I know you are busy but I wanted to make sure you saw my previous email about how backing your database with Dolt makes restoring from backup much easier.
+
+Dolt ispurely additive to your environement. You don't have to change anything except start creating an additional backup of your database in Dolt. Dolt is MySQL compatible. 
+
+Please let me know if you'd like to learn more.
+

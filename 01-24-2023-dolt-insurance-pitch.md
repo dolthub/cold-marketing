@@ -17,7 +17,7 @@ Hello,
 
 Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send you some links.
 
-Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
+Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. Turn it on and every transaction commit on your production MySQL instance is preserved on your replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
 
 Contact us to learn more about how Dolt replication can safeguard your database.
 

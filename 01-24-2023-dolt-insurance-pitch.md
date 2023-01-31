@@ -83,7 +83,7 @@ Email #7
 
 Hi,
 
-Your MySQL backups aren't working as hard they could be. What happens where there is a destructive query? You can restore to certain point in time but you lose all of the work between your current state and whatever backup you restored from. 
+Your MySQL backups aren't working as hard they could be. What happens when there is a destructive query? You can restore to certain point in time but you lose all of the work between your current state and whatever backup you restored from. 
 
 Dolt solves these problems.
 

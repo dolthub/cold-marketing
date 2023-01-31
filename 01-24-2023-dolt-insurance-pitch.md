@@ -109,7 +109,7 @@ Email #9
 
 Hi,
 
-Everyone has or atleast heard of a database horror story. A bad query corrupts data, an operator error drops a table, or maybe script is update the wrong tables. 
+Everyone has or at least heard of a database horror story. A bad query corrupts data, an operator drops a table, or maybe script updates the wrong tables. 
 
 If you are lucky, its an easy fix. That is not always the case and sometimes it can take [months](https://www.dolthub.com/blog/2022-04-14-atlassian-outage-prevention/) and play out the public eye.
 

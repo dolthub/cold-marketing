@@ -47,7 +47,7 @@ Follow up to #3
 
 Hello,
 
-I'm sure you are busy. I'm bumping my first email. I thoought you should know that a solution exists that makes it easy to version control your exsiting MYSQL database to make your backups more powerful with an audit log of every cell, time travel, and branches for developemnt on a replica.
+I'm sure you are busy. I'm bumping my first email. I thought you should know that a solution exists that makes it easy to version control your existing MySQL database to make your backups more powerful with an audit log of every cell, time travel, and branches for development on a replica.
 
  Let me know if you'd like to talk our CEO and founder about this. 
 

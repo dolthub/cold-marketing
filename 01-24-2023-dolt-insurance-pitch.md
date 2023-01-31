@@ -13,7 +13,7 @@ Email #1
 
 Hello,
 
-Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send some links.
+Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just Google what happened to JIRA at Atlassian or I'd be happy to send some links.
 
 Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
 

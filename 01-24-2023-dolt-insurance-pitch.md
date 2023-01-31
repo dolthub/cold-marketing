@@ -34,7 +34,7 @@ Email #3
 
 Hi,
 
-What if you could have oh sh*t insurance for your MySQL database? You'd know longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
+What if you could have oh sh*t insurance for your MySQL database? You'd no longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
 
 Dolt replication of your MySQL database gives you that insurance. You get an audit log of every cell between versions, time travel, and branch for development on a replica. No risk to production.
 

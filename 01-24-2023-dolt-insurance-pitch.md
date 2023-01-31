@@ -8,16 +8,14 @@ Dolt Pitch: "Dolt your backups so you fix the Atlassian problem quickly. Minutes
 ---
 
 
-
-
 Email #1
 *Subject* MySQL Database Insurance
 
 Hello,
 
-Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send you some links.
+Everyone has horror stories about a database broken by a bad query. A single mistake breaks your application for hours, days, or even months. Just google what happened to Atlassian or I'd be happy to send some links.
 
-Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. Turn it on and every transaction commit on your production MySQL instance is preserved on your replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
+Dolt solves this problem with a special type of replica you add to an existing MySQL deployment. No migration required. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production. Imagine how much easier life would have been at Atlassian if they had one of these.
 
 Contact us to learn more about how Dolt replication can safeguard your database.
 
@@ -28,7 +26,7 @@ Follow up to #1
 
 Hi,
 
-I'm sure you are busy making sure a someone doesn't crash your prod database. Let me know if you'd like to learn how a version controlled MySQL database can make you worry less about a bad query.
+I'm sure you are busy making sure someone doesn't crash your prod database. Let me know if you'd like to learn how a version controlled MySQL database can make you worry less about a bad query.
 
 #signature
 
@@ -38,9 +36,9 @@ Hi,
 
 What if you could have oh sh*t insurance for your MySQL database? You'd know longer have to worry about a single mistake disrupting the functionality of your production database and the time it takes to recover.
 
-Dolt replication of your MySQL database gives you that insurance. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production.
+Dolt replication of your MySQL database gives you that insurance. You get an audit log of every cell between versions, time travel, and branch for development on a replica. No risk to production.
 
-Let me know if you want learn more about Dolt.
+Let me know if you want learn more about version controlling your MySQL backups.
 
 #signature
 
@@ -49,9 +47,9 @@ Follow up to #3
 
 Hello,
 
-I'm sure you are busy. I'm bumping my first email. I thoought you should that solution exists that makes it easy to version control your exsiting MYSQL database to make your backups more powerful with an audit log of every cell, time travel, and branches for developemnt on a replica.
+I'm sure you are busy. I'm bumping my first email. I thoought you should know that a solution exists that makes it easy to version control your exsiting MYSQL database to make your backups more powerful with an audit log of every cell, time travel, and branches for developemnt on a replica.
 
-Please let me know if you'd like to talk our CEO and founder about this. 
+ Let me know if you'd like to talk our CEO and founder about this. 
 
 #signature 
 
@@ -64,7 +62,7 @@ Are you running a MySQL type database and worried about what happens when an adm
 
 It can cause the deletion, modification, or alteration of data in the database. This can result in data loss, data corruption, or other problems that can disrupt the functionality of the database and the systems that depend on it.
 
-Add a Dolt replica and stop worrying. Dolt replication of your MySQL database ends your worrying. Turn it on and every transaction commit on your production MySQL instance becomes a Dolt commit on the Dolt replica. You get an audit log of every cell, time travel, and branch for development on a replica. No risk to production.
+Add a Dolt replica and stop worrying. You get an audit log of every cell between versions, time travel, and branch for development on a replica. No risk to production.
 
 #signature
 
@@ -81,19 +79,20 @@ Shoot me note if you'd like to learn more.
 
 Email #7
 
-*New Subject* Your Database Backups are Broken
+*New Subject*  Better Database Backups
 
 Hi,
 
-They aren't really broken but they aren't working as hard they could be. What happens where there is a destructive query? You can restore to certain point in time but you lose all of the work between your current state and whatever backup you restored from. 
+Your MySQL backups aren't working as hard they could be. What happens where there is a destructive query? You can restore to certain point in time but you lose all of the work between your current state and whatever backup you restored from. 
 
 Dolt solves these problems.
 
-Reply to this email to learn more.
+Reply to this email to learn how can you version control your backups.
 
 #signature
 
 Email #8
+Follow up to email #7
 
 Hi,
 
@@ -120,6 +119,7 @@ Want to learn more?
 #Signature
 
 Email #10
+Follow up to email #9
 
 Hello,
 

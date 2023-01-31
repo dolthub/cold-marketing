@@ -57,7 +57,7 @@ Please let me know if you'd like to talk our CEO and founder about this.
 
 Email #5
 
-*New Subject* A bad query on pord
+*New Subject* A bad query in prod
 Hello,
 
 Are you running a MySQL type database and worried about what happens when an admin runs a destructive query?

@@ -131,3 +131,21 @@ Please let me know if you'd like to learn more.
 
 #signature
 
+Email #11
+
+*subject* Version Controlled MySQL Replica
+
+What if your database acted just like a Git repo? Imagine an audit log of every cell, time travel, and branches for development.
+
+Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. 
+
+A Dolt database replica gives you all of that. A small edition to your stack, no migration required.
+
+Would you like to learn how to set this up? 
+
+#signature
+
+Email #12
+
+Here is a link to our [blog](https://www.dolthub.com/blog/2023-03-15-getting-started-versioned-mysql-replica/) on the setup a version controlled MySQL replica and few use cases. 
+

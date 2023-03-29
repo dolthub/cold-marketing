@@ -159,7 +159,7 @@ Now imagine that your database backup behaved like a Git repo: diffs created by 
 
 Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
 
-A Dolt database replica gives you all of that with about 15 minutes of work. 
+A Dolt database replica gives you all of that with about 15 minutes of work. Keep running MySQL in production.
 
 Happy to share more if you're interested.
 

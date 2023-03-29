@@ -153,7 +153,7 @@ Email #13
 
 *subject* Version Controlled MySQL Replica
 
-What are your biggest database worries?  Everyone has heard stories about a bad query that deleted tables and crashed apps. Sure you have logs and backups for recovery but they are limited. 
+What are your biggest database worries?  Everyone has heard stories about a bad query that broke production for hours or days. Sure you have logs and backups for recovery but they are limited. 
 
 Now imagine that your database backup behaved like a Git repo. An audit log of every cell, time travel, and branches for development.
 

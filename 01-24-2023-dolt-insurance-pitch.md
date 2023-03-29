@@ -157,9 +157,9 @@ What are your biggest database worries?  Everyone has heard stories about a bad 
 
 Now imagine that your database backup behaved like a Git repo: diffs created by every write query, an audit log of every cell, and instantaneous rollbacks.
 
-Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
+Destructive query? Roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
 
-A Dolt database replica gives you all of that with about 15 minutes of work. Keep running MySQL in production.
+A Dolt database replica gives you all that with about 15 minutes of work. Keep running MySQL in production.
 
 Happy to share more if you're interested.
 

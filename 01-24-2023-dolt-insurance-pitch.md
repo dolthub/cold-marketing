@@ -155,7 +155,7 @@ Email #13
 
 What are your biggest database worries?  Everyone has heard stories about a bad query that broke production for hours or days. Sure you have logs and backups for recovery but they are limited. 
 
-Now imagine that your database backup behaved like a Git repo. An audit log of every cell, time travel, and branches for development.
+Now imagine that your database backup behaved like a Git repo: diffs created by every write query, an audit log of every cell, and instantaneous rollbacks.
 
 Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
 

@@ -149,3 +149,26 @@ Email #12
 
 Here is a link to our [blog](https://www.dolthub.com/blog/2023-03-15-getting-started-versioned-mysql-replica/) on the setup a version controlled MySQL replica and few use cases. 
 
+Email #13
+
+*subject* Version Controlled MySQL Replica
+
+What are your biggest database worries?  Everyone has heard stories about a bad query that broke production for hours or days. Sure you have logs and backups for recovery but they are limited. 
+
+Now imagine that your database backup behaved like a Git repo: diffs created by every write query, an audit log of every cell, and instantaneous rollbacks.
+
+Destructive query? Roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
+
+A Dolt database replica gives you all that with about 15 minutes of work. Keep running MySQL in production.
+
+Happy to share more if you're interested.
+
+#signature
+
+Email #14(follow up to #13)
+
+Thoughts on above?
+
+Dolt can version control your existing MySQL databases without any changes to your stack. So you get data lineage, diffs, SQL patches, branches, better logs, etc. It's essentially a better database backup that you can set up in 15 minutes. Almost like database insurance. 
+
+#Signature

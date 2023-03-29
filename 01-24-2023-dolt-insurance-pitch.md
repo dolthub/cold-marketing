@@ -153,19 +153,19 @@ Email #13
 
 *subject* Version Controlled MySQL Replica
 
-What are your biggest database worries? A bad update, dropped customer table, restoring from backup, and then having to piece together the lost changes? 
+What are your biggest database worries?  Everyone has heard stories about a bad query that deleted tables and crashed apps. Sure you have logs and backups for recovery but they are limited. 
 
-Imagine that your database backup behaved like a Git repo. An audit log of every cell, time travel, and branches for development.
+Now imagine that your database backup behaved like a Git repo. An audit log of every cell, time travel, and branches for development.
 
-Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. 
+Destructive query? Just roll back to the previous working state, debug prod with diffs, and create a patch. Downtime is now minutes instead of hours or days. 
 
-A Dolt database replica gives you all of that. A small edition to your stack, no migration required.
+A Dolt database replica gives you all of that with about 15 minutes of work. 
 
-Would you like to learn how to set this up?
+Happy to share more if you're interested.
 
 #signature
 
-Email #14(follow up t0 #13)
+Email #14(follow up to #13)
 
 Thoughts on above?
 
